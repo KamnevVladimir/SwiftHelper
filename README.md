@@ -10,3 +10,6 @@
 ### TDD, Testing 
 1) [iOS Test-Driven Development by Tutorials](https://www.raywenderlich.com/books/ios-test-driven-development-by-tutorials/v1.0) 
 - Хороший материал. Здесь можно найти пояснения также про Depedency Map.
+### GCD, многопоточность
+1) [Многопоточность (concurrency) в Swift 3. GCD и Dispatch Queues](https://habr.com/ru/post/320152/)
+2) [Многопоточность | Stepik](https://stepik.org/course/3278/syllabus)
