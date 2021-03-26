@@ -13,3 +13,4 @@
 ### GCD, многопоточность
 1) [Многопоточность (concurrency) в Swift 3. GCD и Dispatch Queues](https://habr.com/ru/post/320152/)
 2) [Многопоточность | Stepik](https://stepik.org/course/3278/syllabus)
+3) [Лучшая статья про многопоточность](https://medium.com/@alexey_nenastev/всё-о-многопоточности-в-swift-часть-1-настоящее-f0b4d5718877)
