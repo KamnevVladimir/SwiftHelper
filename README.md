@@ -27,3 +27,5 @@
 ### Выезжающая карточка от Yandex
 1) https://medium.com/yandex-maps-mobile/вытягивающаяся-карточка-bc2dac091e72
 2) https://medium.com/yandex-maps-mobile/механика-скролла-uiscrollview-14094e515d07
+### CALayer
+1) [Иерархия дерева слоев Core Animation](http://macbug.ru/cocoa/canimation02)
