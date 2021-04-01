@@ -27,7 +27,10 @@
 ### Выезжающая карточка от Yandex
 1) https://medium.com/yandex-maps-mobile/вытягивающаяся-карточка-bc2dac091e72
 2) https://medium.com/yandex-maps-mobile/механика-скролла-uiscrollview-14094e515d07
+## UIKit
 ### CALayer
 1) [Иерархия дерева слоев Core Animation](http://macbug.ru/cocoa/canimation02)
 ### ScrollView
 1) [Статья про паджинацию](https://medium.com/yandex-maps-mobile/custom-paging-в-ios-c4dd4611e589)
+### UIButton
+1) [Кастомизация UIButton](https://www.youtube.com/watch?v=4EwoM0hO1RQ)
