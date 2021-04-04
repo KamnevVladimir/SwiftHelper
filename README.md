@@ -42,3 +42,5 @@
 2) https://medium.com/yandex-maps-mobile/механика-скролла-uiscrollview-14094e515d07
 ### Градиенты
 1) [Про все виды градиентов](https://medium.com/swlh/how-to-create-a-custom-gradient-in-swift-with-cagradientlayer-ios-swift-guide-190941cb3db2)
+### CABasicAnimation
+1) [Статья про зацикливание](https://blog.kiprosh.com/basic-animation-using-cabasicanimation/)
