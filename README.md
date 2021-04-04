@@ -31,7 +31,8 @@
 1) [Статья про паджинацию](https://medium.com/yandex-maps-mobile/custom-paging-в-ios-c4dd4611e589)
 ### UIButton
 1) [Кастомизация UIButton](https://www.youtube.com/watch?v=4EwoM0hO1RQ)
-2) [Границы контента и текста](https://www.youtube.com/watch?v=dmg9OLzrK_4)
+2) [Статья про UIEdgeInsets](https://medium.com/short-swift-stories/using-uiedgeinsets-to-layout-a-uibutton-44ba04dd085c)
+3) [Границы контента и текста](https://www.youtube.com/watch?v=dmg9OLzrK_4)
 ### TableView, CollectionView
 1) [Расстояние между ячейками](https://coderoad.ru/6216839/Как-добавить-интервал-между-UITableViewCell)
 ### TabBar
