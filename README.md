@@ -46,3 +46,13 @@
 1) [Статья про зацикливание](https://blog.kiprosh.com/basic-animation-using-cabasicanimation/)
 ### Custom Navigation Bar
 1) [Закругленный навигейшен контроллер](https://stackoverflow.com/questions/55417060/navigation-bar-with-shadow-corner-radius)
+## Алгоритмы/Сортировки/Задачи
+### Анализ сложности
+1) [Оценка сложности алгоритмов, или Что такое О(log n)](https://tproger.ru/articles/computational-complexity-explained/)
+2) [Анализ сложности алгоритмов. Примеры](https://pro-prof.com/archives/1660)
+### Сортировки
+1) [Основные виды сортировок и примеры их реализации / yandex](https://academy.yandex.ru/posts/osnovnye-vidy-sortirovok-i-primery-ikh-realizatsii)
+### Задачи
+1) [123 задачи с IT-собеседований с разбором решений](https://tproger.ru/articles/problems/)
+### Деревья
+1) [Алгоритмы и структуры данных для начинающих: двоичное дерево поиска](https://tproger.ru/translations/binary-search-tree-for-beginners/)
