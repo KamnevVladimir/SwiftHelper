@@ -51,6 +51,8 @@
 1) [Оценка сложности алгоритмов, или Что такое О(log n)](https://tproger.ru/articles/computational-complexity-explained/)
 2) [Анализ сложности алгоритмов. Примеры](https://pro-prof.com/archives/1660)
 3) [Асимптотический анализ алгоритмов](https://habr.com/ru/post/78728/)
+4) [Лучшее](https://m.habr.com/ru/post/196226/)
+5) [Здоровый кладезь по алгоритмам и прочему](https://timyrik20.gitbooks.io/nlogn/content/poisk-i-sortirovka/binary-search.html)
 ### Сортировки
 1) [Основные виды сортировок и примеры их реализации / yandex](https://academy.yandex.ru/posts/osnovnye-vidy-sortirovok-i-primery-ikh-realizatsii)
 ### Задачи
