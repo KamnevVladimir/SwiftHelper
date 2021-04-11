@@ -29,6 +29,7 @@
 1) [Иерархия дерева слоев Core Animation](http://macbug.ru/cocoa/canimation02)
 ### ScrollView
 1) [Статья про паджинацию](https://medium.com/yandex-maps-mobile/custom-paging-в-ios-c4dd4611e589)
+2) [Как трекать scroll](https://medium.com/@h2s1880/ios-lets-tracking-visible-cell-on-scrollview-7f40922f1165)
 ### UIButton
 1) [Кастомизация UIButton](https://www.youtube.com/watch?v=4EwoM0hO1RQ)
 2) [Статья про UIEdgeInsets](https://medium.com/short-swift-stories/using-uiedgeinsets-to-layout-a-uibutton-44ba04dd085c)
