@@ -41,6 +41,8 @@
 ### Выезжающая карточка от Yandex
 1) https://medium.com/yandex-maps-mobile/вытягивающаяся-карточка-bc2dac091e72
 2) https://medium.com/yandex-maps-mobile/механика-скролла-uiscrollview-14094e515d07
+### Date
+1) [Date to String](https://www.youtube.com/watch?v=-BgzuZhmknk)
 ### Градиенты
 1) [Про все виды градиентов](https://medium.com/swlh/how-to-create-a-custom-gradient-in-swift-with-cagradientlayer-ios-swift-guide-190941cb3db2)
 ### CABasicAnimation
