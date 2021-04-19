@@ -67,3 +67,6 @@
 1) [Отличие static от class](https://habr.com/ru/sandbox/146984/)
 2) [Any и AnyObject](https://vc.ru/dev/100212-any-i-anyobject-v-swift-v-chem-ih-razlichie)
 3) [AnyObject и class. class - typealias AnyObject](https://coderoad.ru/30176814/В-чем-разница-между-протоколом-расширенным-из-AnyObject-и-протоколом-только-для)
+## Работа с сетью
+### URLSession
+1) [RayWenderlich](https://www.raywenderlich.com/3244963-urlsession-tutorial-getting-started)
