@@ -71,3 +71,5 @@
 ### URLSession
 1) [RayWenderlich](https://www.raywenderlich.com/3244963-urlsession-tutorial-getting-started)
 2) [Закачивание картинок в кэш и в таблицу](https://www.donnywals.com/efficiently-loading-images-in-table-views-and-collection-views/)
+## Собеседования
+1) [Мощная ссылка](https://tproger.ru/articles/sobesedovanie-ios-razrabotchika-voprosy-i-zadanija/)
