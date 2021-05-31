@@ -77,3 +77,4 @@
 ## По работе
 ### Строки
 [NSAtributedString](https://www.hackingwithswift.com/articles/113/nsattributedstring-by-example)
+[Горизонтальный стэк](https://stackoverflow.com/questions/31668970/is-it-possible-for-uistackview-to-scroll)
