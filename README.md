@@ -79,3 +79,4 @@
 [NSAtributedString](https://www.hackingwithswift.com/articles/113/nsattributedstring-by-example)
 [Горизонтальный стэк](https://stackoverflow.com/questions/31668970/is-it-possible-for-uistackview-to-scroll)
 [Анимация tableView](https://developer.apple.com/forums/thread/91301)
+[крутая статья по теням](https://www.hackingwithswift.com/articles/155/advanced-uiview-shadow-effects-using-shadowpath)
