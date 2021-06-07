@@ -73,7 +73,7 @@
 2) [Закачивание картинок в кэш и в таблицу](https://www.donnywals.com/efficiently-loading-images-in-table-views-and-collection-views/)
 ## Собеседования
 1) [Мощная ссылка](https://tproger.ru/articles/sobesedovanie-ios-razrabotchika-voprosy-i-zadanija/)
-
+2) [top](https://habr.com/ru/post/493830/)
 ## По работе
 ### Строки
 1) [NSAtributedString](https://www.hackingwithswift.com/articles/113/nsattributedstring-by-example)
