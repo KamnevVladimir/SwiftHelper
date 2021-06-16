@@ -81,3 +81,5 @@
 3) [Анимация tableView](https://developer.apple.com/forums/thread/91301)
 4) [крутая статья по теням](https://www.hackingwithswift.com/articles/155/advanced-uiview-shadow-effects-using-shadowpath)
 5) [анимация в таббаре](https://stackoverflow.com/questions/29126271/swift-draw-shadow-to-a-uibezier-path)
+## Онлайн - помощники
+1) [parse json](https://app.quicktype.io)
