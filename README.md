@@ -83,3 +83,4 @@
 5) [анимация в таббаре](https://stackoverflow.com/questions/29126271/swift-draw-shadow-to-a-uibezier-path)
 ## Онлайн - помощники
 1) [parse json](https://app.quicktype.io)
+2) [Настройка DatePicker](https://developer.apple.com/forums/thread/659184)
