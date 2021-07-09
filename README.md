@@ -85,3 +85,4 @@
 1) [parse json](https://app.quicktype.io)
 2) [Настройка DatePicker](https://developer.apple.com/forums/thread/659184)
 3) [Ютуб про пикер](https://www.youtube.com/watch?v=6Qd3CdWYeJ8)
+4) [Открытие deeplink'a](https://stackoverflow.com/questions/33932303/swift-how-to-open-a-new-app-when-uibutton-is-tapped)
