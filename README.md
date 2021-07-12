@@ -7,6 +7,9 @@
 
 Ссылки будут разбиты по темам. 
 
+# Самое важное - RoadMap
+## (Best practice - изучить весь)[https://www.mindmeister.com/ru/1858516644?t=97xQfSmIfM]
+
 ## Тестирование
 ### TDD, Testing 
 1) [iOS Test-Driven Development by Tutorials](https://www.raywenderlich.com/books/ios-test-driven-development-by-tutorials/v1.0) 
@@ -86,3 +89,25 @@
 2) [Настройка DatePicker](https://developer.apple.com/forums/thread/659184)
 3) [Ютуб про пикер](https://www.youtube.com/watch?v=6Qd3CdWYeJ8)
 4) [Открытие deeplink'a](https://stackoverflow.com/questions/33932303/swift-how-to-open-a-new-app-when-uibutton-is-tapped)
+
+Дневник:
+- 12 июля. Работаю ведущим разрабом по iOS с 28 мая.
+Изучил из нового с начала этого репозитория:
+1) Redux
+2) SwiftDate
+3) SwiftyJSON
+4) HWPanModal, PanModal, FloatingPanel
+5) Realm
+6) SDWebImage
+
+Часто занимаюсь рефактором, участвую в интересных и огромных проектах. 
+Какие минусы:
+1) Я очень ленивый и трудно заставлять себя заниматься чем-то вне работы. Думаю, привыкну и освоюсь.
+2) Как следствие, мало уделяю времени литературе
+3) Обучение в нетологии стоит на месте
+
+Что сейчас в процессе:
+1) Нетология (отстаю на 2 месяца)
+2) CoreData
+3) RoadMap
+4) MapKit
