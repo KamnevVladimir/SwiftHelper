@@ -8,7 +8,7 @@
 Ссылки будут разбиты по темам. 
 
 # Самое важное - RoadMap
-## (Best practice - изучить весь)[https://www.mindmeister.com/ru/1858516644?t=97xQfSmIfM]
+[Best practice - изучить весь](https://www.mindmeister.com/ru/1858516644?t=97xQfSmIfM)
 
 ## Тестирование
 ### TDD, Testing 
