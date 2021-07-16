@@ -89,6 +89,7 @@
 2) [Настройка DatePicker](https://developer.apple.com/forums/thread/659184)
 3) [Ютуб про пикер](https://www.youtube.com/watch?v=6Qd3CdWYeJ8)
 4) [Открытие deeplink'a](https://stackoverflow.com/questions/33932303/swift-how-to-open-a-new-app-when-uibutton-is-tapped)
+5) [Лайаут пиццы от додо](https://habr.com/ru/company/dododev/blog/452876/)
 
 Дневник:
 - 12 июля. Работаю ведущим разрабом по iOS с 28 мая.
