@@ -77,6 +77,7 @@
 ## Собеседования
 1) [Мощная ссылка](https://tproger.ru/articles/sobesedovanie-ios-razrabotchika-voprosy-i-zadanija/)
 2) [top](https://habr.com/ru/post/493830/)
+3) [архитектуры простым языком](https://habr.com/ru/company/croc/blog/549590/)
 ## По работе
 ### Строки
 1) [NSAtributedString](https://www.hackingwithswift.com/articles/113/nsattributedstring-by-example)
