@@ -92,6 +92,7 @@
 4) [Открытие deeplink'a](https://stackoverflow.com/questions/33932303/swift-how-to-open-a-new-app-when-uibutton-is-tapped)
 5) [Лайаут пиццы от додо](https://habr.com/ru/company/dododev/blog/452876/)
 6) [лучшая статья про диспетчеризацию](https://www.rightpoint.com/rplabs/switch-method-dispatch-table)
+7) [html парсер](https://stackoverflow.com/questions/25607247/how-do-i-decode-html-entities-in-swift)
 
 Дневник:
 - 12 июля. Работаю ведущим разрабом по iOS с 28 мая.
