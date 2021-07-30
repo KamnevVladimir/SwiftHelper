@@ -9,6 +9,7 @@
 
 # Самое важное - RoadMap
 [Best practice - изучить весь](https://www.mindmeister.com/ru/1858516644?t=97xQfSmIfM)
+[крутое руководство от CocoaHeads Belarus](https://docs.google.com/document/d/1wKcCgTbfLurLdgTX8dHkQGNiop6pxeJg3bcNAArc57M/edit)
 
 ## Тестирование
 ### TDD, Testing 
