@@ -1,12 +1,5 @@
 # SwiftHelper
 
-Всем привет ! Данный репозиторий - сборник всего материала, открытого в общем доступе, который я использовал для своего обучения с данного момента. Регламентирую, что уже умею:
-1) Верстать кодом/сторибордом/ксибами и немного SwiftUI. Для кода использую SnapKit
-2) Немного знаю за Networking, работу с API и JSON-файлами
-3) Хорошо знаю базу за исключением оговорок where и autoclosure
-
-Ссылки будут разбиты по темам. 
-
 # Самое важное - RoadMap
 [Best practice - изучить весь](https://www.mindmeister.com/ru/1858516644?t=97xQfSmIfM)
 [крутое руководство от CocoaHeads Belarus](https://docs.google.com/document/d/1wKcCgTbfLurLdgTX8dHkQGNiop6pxeJg3bcNAArc57M/edit)
@@ -95,27 +88,7 @@
 6) [лучшая статья про диспетчеризацию](https://www.rightpoint.com/rplabs/switch-method-dispatch-table)
 7) [html парсер](https://stackoverflow.com/questions/25607247/how-do-i-decode-html-entities-in-swift)
 
-Дневник:
-- 12 июля. Работаю ведущим разрабом по iOS с 28 мая.
-Изучил из нового с начала этого репозитория:
-1) Redux
-2) SwiftDate
-3) SwiftyJSON
-4) HWPanModal, PanModal, FloatingPanel
-5) Realm
-6) SDWebImage
-
-Часто занимаюсь рефактором, участвую в интересных и огромных проектах. 
-Какие минусы:
-1) Я очень ленивый и трудно заставлять себя заниматься чем-то вне работы. Думаю, привыкну и освоюсь.
-2) Как следствие, мало уделяю времени литературе
-3) Обучение в нетологии стоит на месте
-
-Что сейчас в процессе:
-1) Нетология (отстаю на 2 месяца)
-2) CoreData
-3) RoadMap
-4) MapKit
-
+## Жесты как в Телеге
+[Долгое нажатие на ячейку](https://habr.com/ru/company/apphud/blog/455854/)
 
 PaintCode
