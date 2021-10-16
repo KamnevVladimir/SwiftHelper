@@ -92,6 +92,8 @@
 [Долгое нажатие на ячейку](https://habr.com/ru/company/apphud/blog/455854/)
 
 PaintCode
+## Палетки цветов
+[Палетки цветов](https://colorhunt.co)
 
 ## Open Source Проекты 
 1) [Пикер, обработка фото](https://github.com/Yummypets/YPImagePicker)
