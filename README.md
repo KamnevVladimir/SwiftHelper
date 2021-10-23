@@ -91,6 +91,11 @@
 ## Жесты как в Телеге
 [Долгое нажатие на ячейку](https://habr.com/ru/company/apphud/blog/455854/)
 
+## FaceID / Touch ID
+[rayWenderlich](https://www.raywenderlich.com/236-how-to-secure-ios-user-data-the-keychain-and-biometrics-face-id-or-touch-id)
+## Keychain to easy
+[link](https://www.advancedswift.com/secure-private-data-keychain-swift/)
+
 PaintCode
 ## Палетки цветов
 [Палетки цветов](https://colorhunt.co)
