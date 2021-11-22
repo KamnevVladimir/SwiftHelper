@@ -102,3 +102,5 @@ PaintCode
 
 ## Open Source Проекты 
 1) [Пикер, обработка фото](https://github.com/Yummypets/YPImagePicker)
+
+[Ресайз UIImage](https://stackoverflow.com/questions/31314412/how-to-resize-image-in-swift)
