@@ -24,6 +24,7 @@
 ## UIKit
 ### CALayer
 1) [Иерархия дерева слоев Core Animation](http://macbug.ru/cocoa/canimation02)
+2) [Тени](https://medium.com/swlh/how-to-create-advanced-shadows-in-swift-ios-swift-guide-9d2844b653f8)
 ### ScrollView
 1) [Статья про паджинацию](https://medium.com/yandex-maps-mobile/custom-paging-в-ios-c4dd4611e589)
 2) [Как трекать scroll](https://medium.com/@h2s1880/ios-lets-tracking-visible-cell-on-scrollview-7f40922f1165)
